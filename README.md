@@ -1,1 +1,1 @@
-my firest text in the directory
+My first readme
